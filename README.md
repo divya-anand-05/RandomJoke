@@ -28,6 +28,7 @@ A simple and fun web application that fetches and displays random jokes with the
    ```bash
    git clone https://github.com/yourusername/random-joke-generator.git
 2.Open index.html in your browser.
+
 3.Click the "Get Joke" button and enjoy!
 
 
@@ -42,4 +43,3 @@ A simple and fun web application that fetches and displays random jokes with the
 
 Thanks to the public joke APIs for providing free and fun content!
 
-Click the "Get Joke" button and enjoy!
