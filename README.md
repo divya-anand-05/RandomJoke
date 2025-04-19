@@ -1,6 +1,6 @@
 # 😂 Random Joke Generator
 
-![Banner](banner.png.png)
+![Banner](banner.png)
 
 
 A simple and fun web application that fetches and displays random jokes with the click of a button. Built using **HTML**, **CSS**, and **JavaScript**, this mini-project demonstrates API integration, asynchronous programming, and basic UI/UX design.
