@@ -35,8 +35,11 @@ A simple and fun web application that fetches and displays random jokes with the
 ## 📌 Technologies Used
 
    . HTML5
+   
    . CSS3
+   
    . JavaScript
+   
    . Joke API
 
    ## 🙌 Acknowledgments
